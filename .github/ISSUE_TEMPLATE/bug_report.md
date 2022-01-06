@@ -12,9 +12,9 @@ assignees: ''
 
 **To Reproduce**
 <!--- Provide a set of steps to reproduce this bug. -->
-<!--- 1. Go to X -->
-<!--- 2. Enable Y -->
-<!--- 3. Do Z -->
+<!--- 1. Go to x -->
+<!--- 2. Enable y -->
+<!--- 3. Do z -->
 <!--- 4. etc. -->
 
 **Additional information**
